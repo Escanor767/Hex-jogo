@@ -1,2 +1,2 @@
 # Hex-jogo
-Hex é um jogo de tabuleiro jogado em uma grade hexagonal, teoricamente de qualquer tamanho e diversas formas possíveis, mas tradicionalmente como um losango 11x11.
+Hex é um jogo de tabuleiro jogado em uma grade hexagonal, teoricamente de qualquer tamanho e diversas formas possíveis, mas tradicionalmente como um losango 11x11. Outras dimensões populares são 13x13 e 19x19 como resultado da relação do jogo com o antigo jogo asiático Go. De acordo com o livro A Beautiful Mind, John Nash defendeu 14x14 como o tamanho ideal. https://pt.wikipedia.org/wiki/Hex_(jogo)
